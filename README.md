@@ -4,6 +4,12 @@ https://earthworks.stanford.edu/catalog/stanford-xq035qm8233
 Detailed shapefiles of Slovakia
 https://www.geoportal.sk/en/zbgis/download/
 
+### Universal shapefiles
+![universal_shapefiles](./universal_shapefiles.png)
+
+### Universal shapefiles
+![slovak_shapefile_0](./slovak_shapefile_0.png)
+
 ## Country ISO codes
 https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
 	- 2 letter code: Alpha-2 code
