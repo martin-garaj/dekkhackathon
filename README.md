@@ -12,8 +12,10 @@ https://www.geoportal.sk/en/zbgis/download/
 
 ## Country ISO codes
 https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
-	- 2 letter code: Alpha-2 code
-	- 3 letter code: Alpha-3 code
+
+- 2 letter code: Alpha-2 code
+	
+- 3 letter code: Alpha-3 code
 
 ## Virtual Environmnet
 How to create *dekkenv* for developing python code using Terminal.
