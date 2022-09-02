@@ -1,0 +1,529 @@
+<metadata xml:lang="en">
+   <Esri>
+      <CreaDate>20171214</CreaDate>
+      <CreaTime>03225900</CreaTime>
+      <ArcGISFormat>1.0</ArcGISFormat>
+      <ArcGISstyle>ISO 19139 Metadata Implementation Specification</ArcGISstyle>
+      <SyncOnce>FALSE</SyncOnce>
+      <scaleRange>
+         <minScale>150000000</minScale>
+         <maxScale>5000</maxScale>
+      </scaleRange>
+      <DataProperties>
+         <itemProps>
+            <imsContentType export="False" />
+            <itemName Sync="TRUE">POL_adm1</itemName>
+            <nativeExtBox>
+               <westBL Sync="TRUE">14.122882</westBL>
+               <eastBL Sync="TRUE">24.153276</eastBL>
+               <southBL Sync="TRUE">49.006130</southBL>
+               <northBL Sync="TRUE">54.835693</northBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </nativeExtBox>
+            <itemSize Sync="TRUE">0.627</itemSize>
+            <itemLocation>
+               <linkage Sync="TRUE">file://\\sul-gislab\gis_shared\GIS_Lab\DATA\World_AdministrativeAreas_2012_GADM\v2_8_201511\POL_adm_shp\POL_adm1.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </itemLocation>
+         </itemProps>
+         <coordRef>
+            <type Sync="TRUE">Geographic</type>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+            <csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits>
+            <peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.4'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_WGS_1984&amp;quot;,DATUM[&amp;quot;D_WGS_1984&amp;quot;,SPHEROID[&amp;quot;WGS_1984&amp;quot;,6378137.0,298.257223563]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,4326]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.238&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.983152841195215e-009&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;4326&lt;/WKID&gt;&lt;LatestWKID&gt;4326&lt;/LatestWKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml>
+         </coordRef>
+      </DataProperties>
+      <ArcGISProfile>ISO19139</ArcGISProfile>
+      <ModDate>20180127</ModDate>
+      <ModTime>09153200</ModTime>
+      <SyncDate>20180127</SyncDate>
+      <SyncTime>09153200</SyncTime>
+   </Esri>
+   <mdHrLv>
+      <ScopeCd value="005" />
+   </mdHrLv>
+   <dataIdInfo>
+      <idCitation>
+         <citRespParty>
+            <role>
+               <RoleCd value="006" />
+            </role>
+            <rpIndName>Hijmans, Robert J.</rpIndName>
+         </citRespParty>
+         <citRespParty>
+            <rpOrgName>University of California, Berkeley. Museum of Vertebrate Zoology</rpOrgName>
+            <role>
+               <RoleCd value="010" />
+            </role>
+            <rpCntInfo>
+               <cntAddress addressType="">
+                  <city>Berkeley</city>
+                  <adminArea>CA</adminArea>
+                  <country>US</country>
+               </cntAddress>
+            </rpCntInfo>
+         </citRespParty>
+         <resTitle>First-level Administrative Divisions, Poland, 2015</resTitle>
+         <collTitle>Global administrative areas</collTitle>
+         <date>
+            <pubDate>2015-11-01T00:00:00</pubDate>
+         </date>
+         <otherCitDet>These data were retrieved from &lt;&lt;http://www.gadm.org&gt;&gt; on December 1, 2017.</otherCitDet>
+         <resEd>2.8</resEd>
+         <citRespParty>
+            <rpOrgName>University of California, Berkeley. Museum of Vertebrate Zoology</rpOrgName>
+            <role>
+               <RoleCd value="006" />
+            </role>
+         </citRespParty>
+         <citId>
+            <identCode>http://purl.stanford.edu/jv191xm2015</identCode>
+         </citId>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <themeKeys>
+         <thesaName>
+            <resTitle>lcsh</resTitle>
+            <citId>
+               <identCode>http://id.loc.gov/authorities/subjects.html</identCode>
+            </citId>
+         </thesaName>
+         <keyword>Administrative and political divisions</keyword>
+      </themeKeys>
+      <placeKeys>
+         <thesaName>
+            <resTitle>geonames</resTitle>
+            <citId>
+               <identCode>http://www.geonames.org/ontology#</identCode>
+            </citId>
+         </thesaName>
+         <keyword>Poland</keyword>
+      </placeKeys>
+      <dataExt>
+         <exDesc>publication date</exDesc>
+         <geoEle />
+      </dataExt>
+      <aggrInfo>
+         <assocType>
+            <AscTypeCd value="002" />
+         </assocType>
+         <initType>
+            <InitTypCd value="002" />
+         </initType>
+         <aggrDSName>
+            <resTitle>Global administrative areas</resTitle>
+            <citId>
+               <identCode>http://purl.stanford.edu/jv457hb9421</identCode>
+            </citId>
+         </aggrDSName>
+      </aggrInfo>
+      <dataChar>
+         <CharSetCd value="004" />
+      </dataChar>
+      <idCredit>Hijmans, R. and University of California, Berkeley, Museum of Vertebrate Zoology. (2015). First-level Administrative Divisions, Poland, 2015. UC Berkeley, Museum of Vertebrate Zoology. Available at: http://purl.stanford.edu/jv191xm2015</idCredit>
+      <idPoC>
+         <rpOrgName>University of Minnesota. Institute on the Environment</rpOrgName>
+         <role>
+            <RoleCd value="007" />
+         </role>
+         <rpCntInfo>
+            <cntAddress addressType="">
+               <city>St. Paul</city>
+               <adminArea>MN</adminArea>
+               <eMailAdd>earthstat.data@gmail.com</eMailAdd>
+               <country>US</country>
+            </cntAddress>
+         </rpCntInfo>
+      </idPoC>
+      <resMaint>
+         <maintFreq>
+            <MaintFreqCd value="012" />
+         </maintFreq>
+      </resMaint>
+      <idStatus>
+         <ProgCd value="001" />
+      </idStatus>
+      <resConst>
+         <LegConsts>
+            <useConsts>
+               <RestrictCd value="008" />
+            </useConsts>
+            <othConsts>Attribution 3.0 Unported. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</othConsts>
+         </LegConsts>
+      </resConst>
+      <idAbs>This polygon shapefile contains the first-level administrative divisions of Poland (adm1). Level 1 divisions include provinces. This layer is part of the Global Administrative Areas 2015 (v2.8) dataset.</idAbs>
+      <tpCat>
+         <TopicCatCd value="003" />
+      </tpCat>
+      <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.4.1.5686</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="eng" />
+         <countryCode Sync="TRUE" value="USA" />
+      </dataLang>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="search">
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+               <westBL Sync="TRUE">14.122882</westBL>
+               <eastBL Sync="TRUE">24.153276</eastBL>
+               <northBL Sync="TRUE">54.835693</northBL>
+               <southBL Sync="TRUE">49.006130</southBL>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+   </dataIdInfo>
+   <mdParentID>http://purl.stanford.edu/jv457hb9421.mods</mdParentID>
+   <mdChar>
+      <CharSetCd value="004" />
+   </mdChar>
+   <distInfo>
+      <distributor>
+         <distorCont>
+            <editorSource>external</editorSource>
+            <editorDigest>8112593d10cd6aa7c8f3c3da6c3533d0</editorDigest>
+            <rpOrgName>Stanford Geospatial Center</rpOrgName>
+            <rpCntInfo>
+               <cntAddress addressType="both">
+                  <delPoint>Mitchell Bldg. 2nd floor</delPoint>
+                  <city>Stanford</city>
+                  <adminArea>California</adminArea>
+                  <postCode>94305</postCode>
+                  <eMailAdd>brannerlibrary@stanford.edu</eMailAdd>
+                  <country>US</country>
+                  <delPoint>397 Panama Mall</delPoint>
+               </cntAddress>
+               <cntPhone>
+                  <voiceNum tddtty="">650-723-2746</voiceNum>
+               </cntPhone>
+            </rpCntInfo>
+            <displayName>Stanford Geospatial Center</displayName>
+            <displayName>Stanford Geospatial Center</displayName>
+            <editorSave>True</editorSave>
+            <displayName>Stanford Geospatial Center</displayName>
+            <role>
+               <RoleCd value="005" />
+            </role>
+         </distorCont>
+      </distributor>
+      <distTranOps>
+         <onLineSrc>
+            <linkage>http://purl.stanford.edu/jv191xm2015</linkage>
+            <protocol>http</protocol>
+            <orName>POL_adm1.shp</orName>
+         </onLineSrc>
+         <transSize Sync="TRUE">0.627</transSize>
+      </distTranOps>
+      <distFormat>
+         <formatName Sync="TRUE">Shapefile</formatName>
+      </distFormat>
+   </distInfo>
+   <mdFileID>edu.stanford.purl:jv191xm2015</mdFileID>
+   <dataSetURI>http://purl.stanford.edu/jv191xm2015</dataSetURI>
+   <mdContact>
+      <editorSource>external</editorSource>
+      <editorDigest>8112593d10cd6aa7c8f3c3da6c3533d0</editorDigest>
+      <rpOrgName>Stanford Geospatial Center</rpOrgName>
+      <rpCntInfo>
+         <cntAddress addressType="both">
+            <delPoint>Mitchell Bldg. 2nd floor</delPoint>
+            <city>Stanford</city>
+            <adminArea>California</adminArea>
+            <postCode>94305</postCode>
+            <eMailAdd>brannerlibrary@stanford.edu</eMailAdd>
+            <country>US</country>
+            <delPoint>397 Panama Mall</delPoint>
+         </cntAddress>
+         <cntPhone>
+            <voiceNum tddtty="">650-723-2746</voiceNum>
+         </cntPhone>
+      </rpCntInfo>
+      <displayName>Stanford Geospatial Center</displayName>
+      <displayName>Stanford Geospatial Center</displayName>
+      <editorSave>True</editorSave>
+      <displayName>Stanford Geospatial Center</displayName>
+      <role>
+         <RoleCd value="007" />
+      </role>
+   </mdContact>
+   <Binary>
+      <Thumbnail>
+         <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAoqq2pWSMVN1EWHVVYMR+App1KI8Rw3Mh9BCy/q2BUucY7sC5RWfNqyW0fm
+3NrcQxAgNIQrBc+ysT+lWre7t7tSbeaOTHB2tkj6jtRGUZaxdwJqKKKoAooooAKKKKACiiigAooo
+oAKKKKACiiigAoorKvfEelafe/Y7m52XJxiPy25z05xj9aANWisSHXJ729NvZ2Y8kLlrl3DIp4+X
+5cgnkHhqtmO6k/1t4w/2YUCj9cn9a554qlDRsai2aFRTXMNuAZpUTPTceT9B3ql9hib77TSeoeZ2
+B/DOP0p8Nrb25JhgijJ6lEA/lXPLHx+yiuQTzbq6yysbaH+H5QZGHqc8L9ME/ToKgjZr82t5K90j
+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
+BRRRQAUUUUAFFFFABRRRQB//2Q==</Data>
+      </Thumbnail>
+   </Binary>
+   <mdDateSt Sync="TRUE">20180127</mdDateSt>
+   <mdLang>
+      <languageCode Sync="TRUE" value="eng" />
+      <countryCode Sync="TRUE" value="USA" />
+   </mdLang>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE" code="4326" />
+            <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+            <idVersion Sync="TRUE">6.14(3.0.1)</idVersion>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <geometObjs Name="POL_adm1">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="002" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">16</geoObjCnt>
+         </geometObjs>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+      </VectSpatRep>
+   </spatRepInfo>
+   <spdoinfo>
+      <ptvctinf>
+         <esriterm Name="POL_adm1">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE" code="4" />
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">16</efeacnt>
+            <spindex Sync="TRUE">FALSE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+      </ptvctinf>
+   </spdoinfo>
+   <eainfo>
+      <detailed Name="POL_adm1">
+         <enttyp>
+            <enttypl Sync="TRUE">POL_adm1</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">16</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">Esri</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">Esri</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ID_0</attrlabl>
+            <attalias Sync="TRUE">ID_0</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+            <atprecis Sync="TRUE">10</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ISO</attrlabl>
+            <attalias Sync="TRUE">ISO</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">3</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME_0</attrlabl>
+            <attalias Sync="TRUE">NAME_0</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">75</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ID_1</attrlabl>
+            <attalias Sync="TRUE">ID_1</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+            <atprecis Sync="TRUE">10</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME_1</attrlabl>
+            <attalias Sync="TRUE">NAME_1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">75</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">HASC_1</attrlabl>
+            <attalias Sync="TRUE">HASC_1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">15</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CCN_1</attrlabl>
+            <attalias Sync="TRUE">CCN_1</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+            <atprecis Sync="TRUE">10</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CCA_1</attrlabl>
+            <attalias Sync="TRUE">CCA_1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TYPE_1</attrlabl>
+            <attalias Sync="TRUE">TYPE_1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ENGTYPE_1</attrlabl>
+            <attalias Sync="TRUE">ENGTYPE_1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NL_NAME_1</attrlabl>
+            <attalias Sync="TRUE">NL_NAME_1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VARNAME_1</attrlabl>
+            <attalias Sync="TRUE">VARNAME_1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">150</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+      </detailed>
+   </eainfo>
+   <contInfo>
+      <FetCatDesc>
+         <compCode>False</compCode>
+         <catLang>
+            <languageCode value="eng" />
+         </catLang>
+         <incWithDS>True</incWithDS>
+         <catCitation>
+            <resTitle>Entity and Attribute Information</resTitle>
+            <citId>
+               <identCode>60bcdce1-28cb-4926-ae76-3c8787e0f42c</identCode>
+            </citId>
+         </catCitation>
+      </FetCatDesc>
+   </contInfo>
+</metadata>
