@@ -7,7 +7,7 @@ https://www.geoportal.sk/en/zbgis/download/
 ### Universal shapefiles
 ![universal_shapefiles](./universal_shapefiles.png)
 
-### Universal shapefiles
+### Slovak shapefile from Geoportal.sk
 ![slovak_shapefile_0](./slovak_shapefile_0.png)
 
 ## Country ISO codes
